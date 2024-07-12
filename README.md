@@ -28,3 +28,4 @@ cd frontend-archive
 
 * [Portfolio](https://sakamochanq.github.io/)
 * [SimpleMusicPlayer](https://sakamochanq.github.io/0001-SimpleMusicPlayer)
+* [PinPoints](https://sakamochanq.github.io/0002-PinPoints)
