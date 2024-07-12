@@ -27,6 +27,6 @@ cd frontend-archive
 ### Application
 
 * [Portfolio](https://sakamochanq.github.io/)
-* [SimpleMusicPlayer](https://sakamochanq.github.io/0001-SimpleMusicPlayer)
-* [PinPoints](https://sakamochanq.github.io/0002-PinPoints)
-* [JsonClock](https://sakamochanq.github.io/0003-JsonClock)
+* [SimpleMusicPlayer](https://sakamochanq.github.io/frontend-archive/0001-SimpleMusicPlayer)
+* [PinPoints](https://sakamochanq.github.io//frontend-archive/0002-PinPoints)
+* [JsonClock](https://sakamochanq.github.io//frontend-archive/0003-JsonClock)
