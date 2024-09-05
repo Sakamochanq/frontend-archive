@@ -47,3 +47,13 @@ Released under the [MIT](https://github.com/Sakamochanq/frontend-archive/blob/ma
 <div align="center">
     <h3>WebApps Created</h3>
 </div>
+
+#### [JsonClock](https://sakamochanq.github.io/frontend-archive/src/JsonClock)
+
+Clock to be displayed in Json format.
+
+<div align="left">
+    <a href="#">
+        <img src="./assets/images/JsonClock.gif" width="350px">
+    </a>
+</div>
