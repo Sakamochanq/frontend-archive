@@ -3,7 +3,7 @@
     <br>
     <br>
     <a href="#">
-        <img src="./assets/frontend-archive-Logo.png" width="300px">
+        <img src="./assets/frontend-archive-Logo.png" width="400px">
     </a>
     <br>
     <br>
