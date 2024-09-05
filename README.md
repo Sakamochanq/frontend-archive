@@ -57,3 +57,16 @@ Clock to be displayed in Json format.
         <img src="./assets/images/JsonClock.gif" width="350px">
     </a>
 </div>
+
+<br>
+<br>
+
+#### [MusicPlayer](https://sakamochanq.github.io/frontend-archive/src/MusicPlayer)
+
+Create your own playlists and listen to music anywhere, anytime.
+
+<div align="left">
+    <a href="#">
+        <img src="./assets/images/MusicPlayer.gif" width="350px">
+    </a>
+</div>
