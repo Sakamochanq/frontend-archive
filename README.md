@@ -70,3 +70,16 @@ Create your own playlists and listen to music anywhere, anytime.
         <img src="./assets/images/MusicPlayer.gif" width="350px">
     </a>
 </div>
+
+<br>
+<br>
+
+#### [Rainbow](https://sakamochanq.github.io/frontend-archive/src/Rainbow)
+
+RGB is looped on a timer to express rainbow colors.
+
+<div align="left">
+    <a href="#">
+        <img src="./assets/images/Rainbow.gif" width="350px">
+    </a>
+</div>
