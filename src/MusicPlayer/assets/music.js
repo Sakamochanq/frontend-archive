@@ -21,6 +21,24 @@ let isLooping = false;
 let currentSongIndex = -1;
 
 const songsInfo = [
+    {
+        src: './assets/pop/songs/MyMelancholyBaby.mp3',
+        albumImage: './assets/pop/albums/MyMelancholyBaby.png',
+        musicName: 'My Melancholy Baby',
+        artistName: 'ProleteR'
+    },
+    {
+        src: './assets/pop/songs/ThrowItBack.mp3',
+        albumImage: './assets/pop/albums/ThrowItBack.png',
+        musicName: 'Throw It Back',
+        artistName: 'ProleteR'
+    },
+    {
+        src: './assets/pop/songs/ByTheRiver.mp3',
+        albumImage: './assets/pop/albums/ByTheRiver.png',
+        musicName: 'By The River',
+        artistName: 'ProleteR'
+    },
 ];
 
 //load song info
