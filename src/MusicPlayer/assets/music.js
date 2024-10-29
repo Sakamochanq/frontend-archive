@@ -21,36 +21,6 @@ let isLooping = false;
 let currentSongIndex = -1;
 
 const songsInfo = [
-    {
-        src: './assets/pop/songs/Look-Back.mp3',
-        albumImage: './assets/pop/albums/Look-Back.png',
-        musicName: 'ルックバック',
-        artistName: 'Bocchi'
-    },
-    {
-        src: './assets/pop/songs/Sunny.mp3',
-        albumImage: './assets/pop/albums/Sunny.png',
-        musicName: '晴る',
-        artistName: 'ヨルシカ'
-    },
-    {
-        src: './assets/pop/songs/Goodbye-Sweet-Heart.mp3',
-        albumImage: './assets/pop/albums/Goodbye-Sweet-Heart.png',
-        musicName: 'グッバイ・スウィートハート',
-        artistName: '桑名春子'
-    },
-    {
-        src: './assets/pop/songs/Bouken-no-Aribai.mp3',
-        albumImage: './assets/pop/albums/Bouken-no-Aribai.png',
-        musicName: '冒険のアリバイ',
-        artistName: '桑名春子'
-    },  
-    {
-        src: './assets/pop/songs/Murderplot.mp3',
-        albumImage: './assets/pop/albums/Murderplot.png',
-        musicName: 'MURDER PLOT',
-        artistName: 'KORDHELL'
-    },
 ];
 
 //load song info
